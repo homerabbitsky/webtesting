@@ -5,3 +5,7 @@ function square(n) {
 function cube(n) {
     return n*n*n;
 }
+
+function quad(n) {
+    return n*n*n*n;
+}
